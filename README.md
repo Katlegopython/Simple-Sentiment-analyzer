@@ -6,9 +6,8 @@ No extra libraries required — pure Python!
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/simple-sentiment-analyzer.git
-   cd simple-sentiment-analyzer
-
+   git clone https://github.com/Katlegopython/Simple-Sentiment-analyzer
+   
 2. Run this program
    python sentiment_analyzer_simple.py
 
